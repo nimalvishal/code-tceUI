@@ -1,0 +1,118 @@
+.userview-userview {
+  width: 510px;
+  height: 376px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.43);
+}
+.userview-text {
+  top: 50px;
+  left: -1px;
+  position: absolute;
+  font-size: 1.7em;
+  margin-left: 1px;
+}
+.userview-text01 {
+  top: 10px;
+  left: 205px;
+  position: absolute;
+  font-size: 1.7em;
+}
+.userview-textinput {
+  top: 228px;
+  flex: 1;
+  left: 208px;
+  position: absolute;
+}
+.userview-text02 {
+  left: 190px;
+  color: #fffefe;
+  bottom: 30px;
+  position: absolute;
+  max-width: 600px;
+  text-align: center;
+  font-weight: 600;
+}
+.userview-text03 {
+  font-style: normal;
+  font-weight: 500;
+}
+.userview-textinput1 {
+  top: 135px;
+  left: 206px;
+  position: absolute;
+}
+.userview-textinput2 {
+  width:34% !important;
+  top: 180px;
+  left: 207px;
+  position: absolute;
+}
+.userview-container {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.userview-button {
+  right: -299px;
+  bottom: -123px;
+  position: absolute;
+  background-color: #147487;
+}
+.userview-text04 {
+  color: #ffffff;
+}
+.userview-text07 {
+  top: 10px;
+  left: 109px;
+  position: absolute;
+  font-size: 1.7em;
+}
+.userview-text08 {
+  top: 50px;
+  left: 204px;
+  position: absolute;
+  font-size: 1.7em;
+}
+.userview-textinput3 {
+  top: 90px;
+  left: 206px;
+  position: absolute;
+}
+.userview-text09 {
+  top: 90px;
+  left: 100px;
+  position: absolute;
+  font-size: 1.7em;
+}
+.userview-text10 {
+  top: 135px;
+  left: 76px;
+  position: absolute;
+  font-size: 1.7em;
+}
+.userview-text11 {
+  top: 180px;
+  left: 86px;
+  position: absolute;
+  font-size: 1.7em;
+}
+.userview-text12 {
+  top: 228px;
+  left: 83px;
+  position: absolute;
+  font-size: 1.7em;
+}
+.userview-root-class-name {
+  top: 55px;
+  right: 52px;
+  position: absolute;
+}

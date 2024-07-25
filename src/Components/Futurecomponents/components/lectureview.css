@@ -1,0 +1,51 @@
+.lectureview-container {
+  width: 408px;
+  height: 284px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.43);
+  margin-top: -310px;
+  margin-left: 463px;
+}
+.lectureview-text {
+  margin-top: 0px;
+  font-size: 1.7em;
+  margin-left: -279px;
+}
+.lectureview-textinput {
+  margin-top: -32px;
+  margin-left: 49px;
+}
+.lectureview-button {
+
+  background-color: #147487;
+  margin-top: 124px;
+}
+.lectureview-text1 {
+  color: #ffffff;
+}
+/* 
+
+
+
+
+.lectureview-text4 {
+  left: 139.79998779296875px;
+  color: #fffefe;
+  bottom: 4.199975967407227px;
+  position: absolute;
+  max-width: 600px;
+  text-align: center;
+  font-weight: 600;
+}
+.lectureview-text5 {
+  font-style: normal;
+  font-weight: 500;
+}
+.lectureview-root-class-name {
+      top: -205px;
+    left: 260px;
+} */
